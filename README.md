@@ -1,5 +1,5 @@
 # Pwnolama
-Using this we can delete all the existing models and cause DOS right now 311,159 hosts are running this software.
+Save this below code as python pwn.py script and run it against any remote instance of the OLLAMA or you can search the instance from shodan using the search key "Ollama is running" for remote testing right now 311,159 are running and affected.
 
 ```
 import requests
